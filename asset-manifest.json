@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Brina-Builds/static/css/main.a67a7642.chunk.css",
+    "main.js": "/Brina-Builds/static/js/main.8a01829f.chunk.js",
+    "main.js.map": "/Brina-Builds/static/js/main.8a01829f.chunk.js.map",
+    "runtime-main.js": "/Brina-Builds/static/js/runtime-main.f39d0283.js",
+    "runtime-main.js.map": "/Brina-Builds/static/js/runtime-main.f39d0283.js.map",
+    "static/js/2.8f4a8bf4.chunk.js": "/Brina-Builds/static/js/2.8f4a8bf4.chunk.js",
+    "static/js/2.8f4a8bf4.chunk.js.map": "/Brina-Builds/static/js/2.8f4a8bf4.chunk.js.map",
+    "index.html": "/Brina-Builds/index.html",
+    "precache-manifest.382e282d8c66a96bb063113cdc1be370.js": "/Brina-Builds/precache-manifest.382e282d8c66a96bb063113cdc1be370.js",
+    "service-worker.js": "/Brina-Builds/service-worker.js",
+    "static/css/main.a67a7642.chunk.css.map": "/Brina-Builds/static/css/main.a67a7642.chunk.css.map",
+    "static/js/2.8f4a8bf4.chunk.js.LICENSE": "/Brina-Builds/static/js/2.8f4a8bf4.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f39d0283.js",
+    "static/js/2.8f4a8bf4.chunk.js",
+    "static/css/main.a67a7642.chunk.css",
+    "static/js/main.8a01829f.chunk.js"
+  ]
+}
